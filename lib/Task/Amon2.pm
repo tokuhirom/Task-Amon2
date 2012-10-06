@@ -5,7 +5,6 @@ use 5.008008;
 our $VERSION = '0.01';
 
 
-
 1;
 __END__
 
@@ -13,15 +12,17 @@ __END__
 
 =head1 NAME
 
-Task::Amon2 - A module for you
+Task::Amon2 - All you need to start with Amon2
 
 =head1 SYNOPSIS
 
-  use Task::Amon2;
+    % cpanm Task::Amon2
 
 =head1 DESCRIPTION
 
-Task::Amon2 is
+Task::Amon2 is a module bundle for Amon2.
+
+If you want to look the module list, please look at Build.PL
 
 =head1 AUTHOR
 
