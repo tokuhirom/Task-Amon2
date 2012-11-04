@@ -12,6 +12,7 @@ my $build = Module::Build->new(
     },
     configure_requires   => { 'Module::Build' => '0.38' },
     requires             => {
+        'perl'                            => '5.008001',
         'Amon2'                           => '3.54',
         'Text::Xslate'                    => '1.5006',
         'Test::More'                      => '0.98',
